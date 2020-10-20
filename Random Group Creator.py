@@ -1,5 +1,5 @@
 import random
-
+print('Helo world')
 n = int(input('Enter the Number of Names to be Entered : '))
 p = int(input('Enter the number of Participants allowed in a group : '))
 
